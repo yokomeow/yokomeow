@@ -4,6 +4,8 @@
 
 *I am an undergraduate student from Moscow Institute of Physics and Technology in Computational Physics and Mathematics. I am looking for part-time Data Science opportunities.*
 
+<!-- Skills: PYTHON / SCIPY / SCIKIT-LEARN /-->
+
 ---
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=yokomeow alt=yokomeow /> </p>
