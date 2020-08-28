@@ -1,6 +1,6 @@
 ## Hey 👋, I am Vlada
 
-[![Gmail Badge](https://img.shields.io/badge/-doctorevrica@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:doctorevrica@gmail.com)](mailto:doctorevrica@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-vladislavakon-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislavakon/)](https://www.linkedin.com/in/vladislavakon/) [![Github Badge](https://img.shields.io/badge/-yokomeow-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yokomeow/)](https://www.github.com/yokomeow/) 
+[![Gmail Badge](https://img.shields.io/badge/-kontsevaya.va@phystech.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kontsevaya.va@phystech.edu)](mailto:kontsevaya.va@phystech.edu) [![Linkedin Badge](https://img.shields.io/badge/-vladislavakon-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vladislavakon/)](https://www.linkedin.com/in/vladislavakon/) [![Github Badge](https://img.shields.io/badge/-yokomeow-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yokomeow/)](https://www.github.com/yokomeow/) 
 
 *I am an undergraduate student from Moscow Institute of Physics and Technology in Computational Physics and Mathematics. I am looking for part-time Data Science opportunities.*
 
